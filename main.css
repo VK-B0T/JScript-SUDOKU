@@ -309,6 +309,7 @@ transform: translateX(0);
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 5px;
+    margin-bottom: auto;
 }
 
 .number{
